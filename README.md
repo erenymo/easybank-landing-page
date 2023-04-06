@@ -8,6 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN).
 
+This is a FULL RESPONSIVE Easybank Landing Webpage.
 
 Live Site URL : [Click Here](https://erenymo.github.io/easybank-landing-page/)
 
